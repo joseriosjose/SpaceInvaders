@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1524164789 source:c:\users\jose_\desktop\proyectograficacion\spaceinvaders\main.cpp
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<string>
+	<conio.h>
+	<graphics.h>
+	"personajes.h"
+	<pthread.h>
+	<cstdlib>
+	<time.h>
+
+1524138500 c:\users\jose_\desktop\proyectograficacion\spaceinvaders\personajes.h
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<vector>
+	"figuras.h"
+
+1524165736 c:\users\jose_\desktop\proyectograficacion\spaceinvaders\figuras.h
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	"Pila.h"
+
+1523822098 c:\users\jose_\desktop\proyectograficacion\spaceinvaders\pila.h
+	<stdio.h>
+	<iostream>
+
